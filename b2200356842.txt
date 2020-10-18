@@ -2,6 +2,5 @@ Oğuzhan
 Taşçı
 2200356842
 b2200356842@cs.hacettepe.edu.tr
---Self Introductory Text--
-blabla
-
+Hi, I'm Oğuzhan I am 21 years old. I'm from Trabzon and I like playing basketball. I am freshman in Hacettepe University CS Department.
+I acknowledge that I have fully read and understood the contents of the course website; I will not share my work (not even a part of it) on Piazza; I will be responsible for what has been discussed/asked on Piazza; I will not expect any response for my questions that have already been asked or written in a language other English.I understand that if I have any questions or concerns about the course mechanics it is my responsibility to disccuss them with the instructors within their office hours. 
